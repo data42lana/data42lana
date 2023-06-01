@@ -1,5 +1,5 @@
 - :grinning: :wave: Hi, I’m @data42lana.
-- :seedling: I’m passionate in Artificial Intelligence, Machine Learning, and Data Science.
-- :books: I’m currently learning tools and topics related to my interests.
+- :seedling: I’m passionate about data science, machine learning and artificial intelligence.
+- :books: I’m currently gaining knowledge and developing skills in these fields.
 
 
